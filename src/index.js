@@ -9,7 +9,7 @@ function Klick() {
         messsage: "You clicked Button 1"
     })
     document.getElementById("info23").innerHTML = button1_click;
-    console.log(button1_click);
+
 }
 
 function Klick2() {

@@ -8,7 +8,7 @@ const path = require('path');
 
 
 
-var mainPage = "src/index.html";
+var mainPage = "public/index.html";
 
 function createWindow() {
   mainWin = new BrowserWindow({
